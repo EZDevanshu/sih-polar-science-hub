@@ -1,0 +1,26 @@
+# Raw bulky datasets (Heavy files must stay local)
+01_stations/
+02_scientific/
+03_satellite/
+04_expeditions/
+05_media/
+05_media/images/
+05_media/videos/
+06_outreach/
+combined_raw/
+polar-data/
+*.tar.gz
+*.zip
+*.pdf
+*.mp4
+*.xlsx
+
+# Temporary/Demo frontend & build artifacts
+frontend/
+src/
+node_modules/
+dist/
+build/
+.env
+*.log
+.DS_Store
