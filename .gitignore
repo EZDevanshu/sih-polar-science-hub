@@ -62,3 +62,9 @@ polar-data/
 *.pdf
 *.mp4
 *.xlsx
+
+# Local working directories & scratch
+SIH-26/
+scratch/
+cleaned_data/cleaned_weather_seed.json
+
